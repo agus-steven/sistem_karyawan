@@ -1,4 +1,5 @@
 <?php
+	//terbaru
 	class KaryawanIndex extends CI_Controller{
 		
 		
